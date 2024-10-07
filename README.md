@@ -22,6 +22,7 @@ WHERE
 
 ### Dashboards
 
+!![Alt text](https://github.com/Aroglobal1/Car-Insurance-Analysis/1.png)
 ![Alt Text](https://public.tableau.com/views/CarInsuranceManagementDashboard/CarInsuranceManagementDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
