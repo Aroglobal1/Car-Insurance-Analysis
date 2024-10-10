@@ -15,16 +15,14 @@ The data used for this Analysis is the "car insurance_data.csv" file which consi
 
 ### SQL code
 ```sql
-SELECT
-FROM
-WHERE
+SELECT Customer_Id, sum(claim_amt) AS Total_claim_amount, avg(claim_amt) AS Average_claim_amount, coverage_zone, car_use, car_year, car_model, car_make, marital_status, parent, gender, car_color, sum(household_income) AS Household_income, sum(kids_driving) AS No_of_Drivers, sum(claim_freq) AS Claim_frequency
+FROM `car insurance`.car_insurance
+WHERE claim_freq > 0
+GROUP BY Customer_Id, coverage_zone, car_use, car_year, car_model, car_make, marital_status, parent, gender, car_color
+ORDER BY Customer_Id;
 ```
 
 ### Dashboards
-
-!![Alt text](https://github.com/Aroglobal1/Car-Insurance-Analysis/1.png)
-![Alt Text](https://public.tableau.com/views/CarInsuranceManagementDashboard/CarInsuranceManagementDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
 
 
 ### Insights and Recommendations 
