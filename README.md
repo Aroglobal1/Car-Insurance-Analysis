@@ -24,12 +24,12 @@ ORDER BY Customer_Id;
 
 ### Dashboards
 
-!![Car Insurance Management Dashboard](https://github.com/user-attachments/assets/ab2d6d07-0d9c-4d1c-a75b-b253dd30d429)
+![Car Insurance Management Dashboard](https://github.com/user-attachments/assets/ab2d6d07-0d9c-4d1c-a75b-b253dd30d429)
 
-[Car Insurance Management Dashboard](
+[Car Insurance Management Dashboard on Tableau](https://public.tableau.com/views/CarInsuranceManagementDashboard/CarInsuranceManagementDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-!![Car Insurance Operational Team Dashboard](https://github.com/user-attachments/assets/577dd6da-8b4e-4710-8d13-6f07b01e9b2d)
+![Car Insurance Operational Team Dashboard](https://github.com/user-attachments/assets/577dd6da-8b4e-4710-8d13-6f07b01e9b2d)
 
-[Car Insurance Operational Team Dashboard using LookerStudio](https://lookerstudio.google.com/reporting/fa76356a-e52c-4509-b48f-6811c6ed0891)
+[Car Insurance Operational Team Dashboard on LookerStudio](https://lookerstudio.google.com/reporting/fa76356a-e52c-4509-b48f-6811c6ed0891)
 
 ### Insights and Recommendations 
